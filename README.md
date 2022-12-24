@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shahriar Mostofa Fahim
 - 👀 I’m interested in Software and virtual Ai
-- 🌱 I’m currently learning C++, Python, HTML, CSS, JAVA.
+- 🌱 I’m currently learning C++, Python, HTML, CSS, JAVA, Kotlin.
 - 💞️ I’m looking to collaborate on For any Software realated Job!
-- 📫 How to reach me - You can Reach me through facebook - https://www.facebook.com/Evil.sergent
+- 📫 How to reach me - You can Reach me through facebook - https://www.facebook.com/Shahriar.Fahim2002
 -                       You can contact me through instagram - https://www.instagram.com/evil.sergent/
 -                       you can also send me email - shahriarmostofafahim@gmail.com
 -                       you can check out my linkedin https://www.linkedin.com/in/shahriar-mostofa-fahim-35421422b/
